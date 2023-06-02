@@ -1,4 +1,4 @@
-<h1 align="center">Hey here👋, Vugneshwaran</h1>
+<h1 align="center">Hey here👋, Vigneshwaran</h1>
 <h3 align="center">A passionate Data analytics r from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
