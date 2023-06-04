@@ -6,7 +6,7 @@
 
 - I completed my MCA. in **KGiSL - IIM, Coimbatore(Tamilnadu).**
 
-- I’m currently learning **SQL, Statistical Analysis, Tableau, Excel/Excel VBA, Python (pandas), Machine Learning Algorithms**
+- I’m currently learning **SQL, Statistical Analysis, Tableau, Excel/Excel VBA, Python (pandas), Machine Learning Algorithms.**
 
 - I'm looking to collaborate on **Data Analytics, Cleaning, Manipulation and Visualization Project.**
 
